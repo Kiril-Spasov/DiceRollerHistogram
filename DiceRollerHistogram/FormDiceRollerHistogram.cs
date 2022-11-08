@@ -7,6 +7,9 @@ namespace DiceRollerHistogram
 {
     public partial class FormDiceRollerHistogram : Form
     {
+       //Write a program which will model the rolling to two fair dice.The program should
+       //complete 1000 iterations and then produce a frequency histogram summarizing the
+       //occurrences of each possible sum.
         public FormDiceRollerHistogram()
         {
             InitializeComponent();
